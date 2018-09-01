@@ -6,11 +6,11 @@ import java.util.Calendar;
 
 
 /**
- * Created by hannnnn on 2017/3/14.
+ *
  *
  * Global Edit Distance
  */
-public class KT_Project_Global0 {
+public class Global0 {
 
     public static void main(String [] args){
         String namesFile = "/Users/hannnnn/Desktop/knowledge_technologies/Assignment/kt_data/names.txt";
